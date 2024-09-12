@@ -1,6 +1,8 @@
 # FUN_Plus_CS2_DMACheat
 CS2 DMA CHEAT Using DMALibrary
 
+For information regarding the Map Parser, please refer to https://github.com/atombottle/cs2-map-parser.
+
 # DMALibrary
 Simple but extensive library for DMA users
 
